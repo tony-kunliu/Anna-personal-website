@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tony-kunliu.github.io/Anna-personal-website/sitemap.xml
+Sitemap: https://yapingqu.com.au/sitemap.xml
+
+
