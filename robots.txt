@@ -2,5 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yapingqu.com.au/sitemap.xml
-
-
